@@ -101,7 +101,7 @@ Usage: speedtest [<options>]
 
 To uninstall the `speedtest` just run:
 ```
-$ sudo rm -r /usr/local/Cellar/speedtest/
+$ sudo rm -r /usr/local/Cellar/speedtest /usr/local/bin/speedtest
 ```
 
 
