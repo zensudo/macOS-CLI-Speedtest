@@ -10,13 +10,13 @@ Official-Project: https://www.speedtest.net/de/apps/cli
 
 ## Overview
 
-- [Installation](#Installation)
+- [Installation](#Manual-installation)
 - [Allow unidentified developer](#Allow-Software-from-unidentified-developer)
 - [Usage](#Usage)
 - [Uninstall](#Uninstall)
 
 
-## Installation
+## Manual installation
 
 - Open the `Terminal` Application from `/System/Applications/Utilities/Terminal.app`
 - Download the `.zip` package to your `Download` folder and unzip there.
