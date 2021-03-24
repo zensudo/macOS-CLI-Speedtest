@@ -1,6 +1,5 @@
 # macOS_CLI_Speedtest with Speedtest from Ookla®
-Ookla® Speedtest CLI installer for macOS without homebrew.\
-This installation was tested on macOS 10.15.7 (Catalina)\
+Ookla® Speedtest CLI installer for macOS without homebrew.- This installation was tested on macOS 10.15.7 (Catalina)\
 Official-Project: https://www.speedtest.net/de/apps/cli
 
 ->> The easiest way to install the `$ speedtest` command is, to [download](https://github.com/zensudo/macOS_CLI_Speedtest/releases/tag/speedtest_v1) and install the .pkg file.
