@@ -18,29 +18,24 @@ This installation was tested on macOS 10.15.7 (Catalina)
 
 ## Installation
 
-1. Open the `Terminal` Application from `/System/Applications/Utilities/Terminal.app`
-
-2. Download the `.zip` package to your `Download` folder and unzip there.
-
-3. It is important to go into the downloaded folder:
-```
-$ cd ~/Downloads/macOS_CLI_Speedtest-main
-```
-
-4. Check your current path with `$ pwd`, it hast to be: `/Users/<USERNAME>/Downloads/macOS_CLI_Speedtest-main`
-```
-$ pwd
-```
-
-5. Start the installation with `$ sudo` and the `sh` command:
-```
-$ sudo sh installer.sh
-```
-
-6. Now you can run the `$ speedtest` command in the Terminal
-```
-$ speedtest
-```
+- Open the `Terminal` Application from `/System/Applications/Utilities/Terminal.app`
+- Download the `.zip` package to your `Download` folder and unzip there.
+- It is important to go into the downloaded folder:
+  ```
+  $ cd ~/Downloads/macOS_CLI_Speedtest-main
+  ```
+- Check your current path with `$ pwd`, it hast to be: `/Users/<USERNAME>/Downloads/macOS_CLI_Speedtest-main`
+  ```
+  $ pwd
+  ```
+- Start the installation with `$ sudo` and the `sh` command:
+  ```
+  $ sudo sh installer.sh
+  ```
+- Now you can run the `$ speedtest` command in the Terminal
+  ```
+  $ speedtest
+  ```
 
 
 ## Allow Software from unidentified developer
