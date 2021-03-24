@@ -58,7 +58,7 @@ That's it! Now you can run the `$ speedtest`command in your CLI.
 
 To uninstall the `speedtest` just run:
 ```
-$ rm -r /usr/local/Cellar/speedtest/
+$ sudo rm -r /usr/local/Cellar/speedtest/
 ```
 
 
