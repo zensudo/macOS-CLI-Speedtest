@@ -17,9 +17,8 @@ ln -s /usr/local/Cellar/speedtest/1.0.0/bin/speedtest /usr/local/bin/speedtest;
 rm ./README.md;
 rm ./installer.sh;
 rm -r ./content/;
-cd ..;
-rmdir macOS_CLI_Speedtest-main;
-rm macOS_CLI_Speedtest-main.zip;
+rmdir ../macOS_CLI_Speedtest-main;
+rm ../macOS_CLI_Speedtest-main.zip;
 
 printf "##########\n
 THE INSTALLATION HAS FINISHED!\n
