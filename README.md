@@ -11,7 +11,7 @@ This installation was tested on macOS 10.15.7 (Catalina)
 ## Overview
 
 - [Installation](#Installation)
-- [Allow inidentified Developer](#Allow-Software-from-unidentified-developer)
+- [Allow unidentified developer](#Allow-Software-from-unidentified-developer)
 - [Usage](#Usage)
 - [Uninstall](#Uninstall)
 
