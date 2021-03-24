@@ -112,4 +112,4 @@ $ sudo rm -r /usr/local/Cellar/speedtest /usr/local/bin/speedtest
 ## Contributor
 - Original CLI Software from: Speedtest® by Ookla®\
   https://www.speedtest.net/de/apps/cli
-- Installer Skript by Zen Sudo
+- Installer script by zensudo
