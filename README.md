@@ -56,7 +56,7 @@ That's it! Now you can run the `$ speedtest`command in your CLI.
 ## Usage
 
 ```
-peedtest by Ookla is the official command line client for testing the speed and performance of your internet connection.
+speedtest by Ookla is the official command line client for testing the speed and performance of your internet connection.
 
 Version: speedtest 1.0.0.2
 
