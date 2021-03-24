@@ -4,14 +4,16 @@ This installation was tested with macOS 10.15.7 (Catalina)
 
 -> The easiest way to install the `$ speedtest` command is, to download and install the .pkg file.
 
--> Otherwise you can follow the [installation](##Installation) instructions.
+-> Otherwise you can follow the [Installation instructions](#Installation)
 
 
 
 ## Overview
 
-- [ ](#)
-  - [ ](# )
+- [Installation](#Installation)
+- [Allow inidentified Developer](#Allow-Software-from-unidentified-developer)
+- [Usage](#Usage)
+- [Uninstall](#Uninstall)
 
 
 ## Installation
