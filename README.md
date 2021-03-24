@@ -3,6 +3,8 @@ Ookla Speedtest CLI v5 installer for macOS without homebrew
 
 ## Overview
 
+This installation was tested with macOS 10.15.7 (Catalina)
+
 -
 
 
@@ -12,7 +14,7 @@ Ookla Speedtest CLI v5 installer for macOS without homebrew
 
 2. Download the `.zip` package to your `Download` folder and unzip there.
 
-3. It is important go into the downloaded folder:
+3. It is important to go into the downloaded folder:
 ```
 $ cd ~/Downloads/macOS_CLI_Speedtest-main
 ```
