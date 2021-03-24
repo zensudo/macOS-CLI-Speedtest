@@ -1,4 +1,4 @@
-# Unofficial installer for Speedtest® from Ookla® on macOS
+# Unofficial installer for Speedtest® CLI on macOS
 Ookla® Speedtest® CLI installer for macOS without homebrew.\
 Official-Project: https://www.speedtest.net/de/apps/cli
 
