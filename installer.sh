@@ -19,7 +19,7 @@ rm ./installer.sh;
 rm -r ./content/;
 cd ..;
 rmdir macOS_CLI_Speedtest-main;
-rm macOS_CLI_Speedtest-main.pkg;
+rm macOS_CLI_Speedtest-main.zip;
 
 
 exit 0;
