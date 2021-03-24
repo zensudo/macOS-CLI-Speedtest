@@ -24,5 +24,5 @@ rm macOS_CLI_Speedtest-main.zip;
 printf "##########\n
 THE INSTALLATION HAS FINISHED!\n
 Start your first test with the command \'speedtest\' or get\nfurther informations wit \'speedtest --help\'\n
-##########"
+##########";
 exit 0;
