@@ -108,6 +108,15 @@ To uninstall the `speedtest` just run:
 $ sudo rm -r /usr/local/Cellar/speedtest /usr/local/bin/speedtest
 ```
 
+## Developer Software Informations
+All Informations like:
+  - Copyright Notices
+  - Terms of Use and Privacy Policy Notice
+  - Third-Party Products/Libraries
+  - Release Notes
+  - Disclaimer
+
+and more are in this [FILE](https://github.com/zensudo/macOS_CLI_Speedtest/blob/main/content/speedtest.md)
 
 ## Contributor
 - Original CLI Software from: Speedtest® by Ookla®\
