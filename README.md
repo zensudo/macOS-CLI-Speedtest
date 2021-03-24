@@ -43,13 +43,12 @@ This installation was tested on macOS 10.15.7 (Catalina)
 After your first run of the `$ speedtest` command, you will get an error message like this:
 <img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png" width="400"/>
 
-So you need to `cancel` this error message and got to your `System Preferences`.
-
-```
-$ open /System/Applications/System\ Preferences.app
-```
-Go to `Security` tab and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
-<img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png" width="400"/>
+- So you need to `cancel` this error message and got to your `System Preferences`.
+  ```
+  $ open /System/Applications/System\ Preferences.app
+  ```
+- Go to `Security` tab and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
+  <img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png" width="400"/>
 
 That's it! Now you can run the `$ speedtest`command in your CLI.
 
