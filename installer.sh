@@ -21,5 +21,5 @@ cd ..;
 rmdir macOS_CLI_Speedtest-main;
 rm macOS_CLI_Speedtest-main.zip;
 
-echo The installation has finished. Start your first test with the command \"speedtest\" or get further informations wit \"speedtest --help\"
+echo "##########"\nThe installation has finished!\nStart your first test with the command \"speedtest\" or get\nfurther informations wit \"speedtest --help\""##########"
 exit 0;
