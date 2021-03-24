@@ -23,6 +23,9 @@ rm macOS_CLI_Speedtest-main.zip;
 
 printf "##########\n
 THE INSTALLATION HAS FINISHED!\n
-Start your first test with the command \'speedtest\' or get\nfurther informations wit \'speedtest --help\'\n
+Start your first test with the command \'speedtest\' or get\nfurther informations with \'speedtest --help\'\n
+
+If yo can't open the Software because of an unidentified developer\n read the instructions under:\n https://github.com/zensudo/macOS_CLI_Speedtest
+
 ##########";
 exit 0;
