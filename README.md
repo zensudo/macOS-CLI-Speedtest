@@ -23,17 +23,27 @@ $ cd ~/Downloads/macOS_CLI_Speedtest-main
 $ sudo sh install.sh
 ```
 
-6. Now you can run the `speedtest` command in the Terminal
+6. Now you can run the `$ speedtest` command in the Terminal
 ```
 $ speedtest
 ```
 
 ## Allow Software from unidentified developer
 
+After your first run of the `$ speedtest` command, you will get an error message like this:
 
-![Preferences1]()
+![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png)
 
+So you need to `cancel` this error message and got to your `Settings` Application.
 
+```
+$ open /System/Applications/System\ Preferences.app
+```
+Go to `Security` and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
+
+![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png)
+
+That's it! Now you can run the `$ speedtest`command in your CLI.
 
 ## Uninstall
 
