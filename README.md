@@ -5,6 +5,7 @@ Ookla Speedtest CLI v5 installer for macOS without homebrew
 
 -
 
+
 ## Installation
 
 1. Open the `Terminal` Application from `/System/Applications/Utilities/Terminal.app`
@@ -28,6 +29,7 @@ $ sudo sh install.sh
 $ speedtest
 ```
 
+
 ## Allow Software from unidentified developer
 
 After your first run of the `$ speedtest` command, you will get an error message like this:
@@ -44,6 +46,11 @@ Go to `Security` and click `Open Anyway`if you're not an administrator, you need
 ![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png)
 
 That's it! Now you can run the `$ speedtest`command in your CLI.
+
+
+## Usage
+
+
 
 ## Uninstall
 
