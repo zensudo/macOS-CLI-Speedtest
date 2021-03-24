@@ -13,14 +13,14 @@ Ookla Speedtest CLI v5 installer for macOS without homebrew
 
 3. It is important go into the downloaded folder:
 ```
-cd ~/Downloads/macOS_CLI_Speedtest-main
+$ cd ~/Downloads/macOS_CLI_Speedtest-main
 ```
 
-4. check if youre in ther right folder with `pwd`, it hast to be: `/Users/<USERNAME>/Downloads/macOS_CLI_Speedtest-main`
+4. check if youre in ther right folder with `$ pwd`, it hast to be: `/Users/<USERNAME>/Downloads/macOS_CLI_Speedtest-main`
 
 5. start the installation with `sudo` and the `sh` command:
 ```
-sudo sh install.sh
+$ sudo sh install.sh
 ```
 
 6.
