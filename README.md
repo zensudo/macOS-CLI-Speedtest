@@ -50,10 +50,11 @@ After your first run of the `$ speedtest` command, you will get an error message
   ```
   $ open /System/Applications/System\ Preferences.app
   ```
-- Go to `Security` tab and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
-  <img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png" width="400"/>
 
-That's it! Now you can run the `$ speedtest`command in your CLI.
+Go to `Security` tab and click `Open Anyway` if you're not an administrator, you need to open the lock in left corner.
+<img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png" width="400"/>
+
+That's it! Now you can run the `$ speedtest` command in your CLI.
 
 
 ## Usage
@@ -109,5 +110,6 @@ $ sudo rm -r /usr/local/Cellar/speedtest /usr/local/bin/speedtest
 
 
 ## Contributor
-
-Zen Sudo
+- Original CLI Software from: Speedtest® by Ookla\
+  https://www.speedtest.net/de/apps/cli
+- Installer Skript by Zen Sudo
