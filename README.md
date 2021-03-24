@@ -29,6 +29,13 @@ $ sudo sh install.sh
 
 ## Usage
 
+## Uninstall
+
+To uninstall the `speedtest` just run:
+```
+$ rm -r /usr/local/Cellar/speedtest/
+```
+
 
 ## Contributor
 
