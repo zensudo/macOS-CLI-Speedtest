@@ -28,6 +28,9 @@ $ cd ~/Downloads/macOS_CLI_Speedtest-main
 ```
 
 4. Check your current path with `$ pwd`, it hast to be: `/Users/<USERNAME>/Downloads/macOS_CLI_Speedtest-main`
+```
+$ pwd
+```
 
 5. Start the installation with `$ sudo` and the `sh` command:
 ```
@@ -44,7 +47,7 @@ $ speedtest
 
 After your first run of the `$ speedtest` command, you will get an error message like this:
 
-![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png)
+![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png |  width=100)
 
 So you need to `cancel` this error message and got to your `System Preferences`.
 
@@ -53,7 +56,7 @@ $ open /System/Applications/System\ Preferences.app
 ```
 Go to `Security` tab and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
 
-![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png)
+![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png |  width=100)
 
 That's it! Now you can run the `$ speedtest`command in your CLI.
 
