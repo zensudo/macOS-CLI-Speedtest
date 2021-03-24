@@ -38,12 +38,12 @@ After your first run of the `$ speedtest` command, you will get an error message
 
 ![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png)
 
-So you need to `cancel` this error message and got to your `Settings` Application.
+So you need to `cancel` this error message and got to your `System Preferences`.
 
 ```
 $ open /System/Applications/System\ Preferences.app
 ```
-Go to `Security` and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
+Go to `Security` tab and click `Open Anyway`if you're not an administrator, you need to open the lock in left corner.
 
 ![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image2.png)
 
