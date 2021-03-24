@@ -48,6 +48,7 @@ $ speedtest
 After your first run of the `$ speedtest` command, you will get an error message like this:
 
 ![Preferences1](https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png |  width=100)
+<img src="https://raw.githubusercontent.com/zensudo/macOS_CLI_Speedtest/main/content/image1.png" width="200"/>
 
 So you need to `cancel` this error message and got to your `System Preferences`.
 
